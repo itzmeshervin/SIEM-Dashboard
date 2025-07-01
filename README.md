@@ -11,7 +11,7 @@ It visualizes system usage, monitors client logs, and detects potential USB-base
 - Real-time system monitoring (CPU, RAM, Disk)
 - USB device detection from kernel logs
 - Intrusion detection using predefined attack patterns
-- Multi-host log monitoring from `/var/log/remote_logs/`
+- Multi-host log monitoring
 - Dynamic and interactive UI with Plotly charts
 - Streamlit-based minimal and clean layout
 
