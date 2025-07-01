@@ -51,5 +51,3 @@ streamlit run siem_dashboard.py"
 
 > Intrusion Detection Alert in SIEM Dashboard
 ![intrusion](screenshots/intrusion.png)
-
----
