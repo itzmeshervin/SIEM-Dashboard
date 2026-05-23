@@ -101,10 +101,12 @@ $ pip install -r requirements.txt
 ## 💻 Runing
 
 ```bash
-$ streamlit run siem_dashboard.py" 
+$ streamlit run siem.py" 
 ``` 
 
 ---
+
+
 
 ## 📸 Screenshots
 > The dashboard shows system resource usage, USB activity, and intrusion alerts in real time.
