@@ -91,9 +91,16 @@ $ sudo chmod -R 755 /var/log/remote_logs
 ## 🛠️ Installation
 
 ```bash
-$ git clone https://gitlab.com/yourusername/siem-dashboard-streamlit.git
-$ cd siem-dashboard-streamlit
+$ git clone https://github.com/itzmeshervin/SIEM-Dashboard.git
+$ cd SIEM-Dashboard
 $ pip install -r requirements.txt
+``` 
+
+---
+
+## 💻 Runing
+
+```bash
 $ streamlit run siem_dashboard.py" 
 ``` 
 
