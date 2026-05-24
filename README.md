@@ -83,6 +83,7 @@ It visualizes system usage, monitors client logs, and detects potential USB-base
 Ensure that the user running the Streamlit app has read access to `/var/log/remote_logs/`:
 
 ```bash
+$ sudo chown -R syslog:adm /var/log/remote_logs
 $ sudo chmod -R 755 /var/log/remote_logs
 ```
 ---
