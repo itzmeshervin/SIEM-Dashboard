@@ -91,7 +91,7 @@ $ sudo chmod -R 755 /var/log/remote_logs
 ## 🛠️ Installation
 
 ```bash
-$ git clone https://github.com/itzmeshervin/SIEM-Dashboard.git
+$ git clone https://github.com/Jobil-Libu/SIEM-Dashboard.git
 $ cd SIEM-Dashboard
 $ pip install -r requirements.txt
 ``` 
