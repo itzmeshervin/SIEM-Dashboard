@@ -97,7 +97,7 @@ $ pip install -r requirements.txt
 
 ---
 
-## 💻 Runing
+## 💻 Running
 
 ```bash
 $ streamlit run siem.py
