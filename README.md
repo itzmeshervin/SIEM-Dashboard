@@ -49,8 +49,7 @@ It visualizes system usage, monitors client logs, and detects potential USB-base
    Add the following to the **end** of `/etc/rsyslog.conf`:
 
    ```conf
-   template(name="RemoteLogs" type="string"
-     string="/var/log/remote_logs/%HOSTNAME%/%PROGRAMNAME%.log")
+   template(name="RemoteLogs" type="string" string="/var/log/remote_logs/%HOSTNAME%/%PROGRAMNAME%.log")
 
    *.* ?RemoteLogs
    ```
